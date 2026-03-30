@@ -1,1 +1,1 @@
-< Class-Project-Proposal>
+<title>Class-Project-Proposal</title> 
